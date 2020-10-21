@@ -1,4 +1,4 @@
 # Using Webpack in Octree project
 
-- Lenguage : JavaScript
+- Language : JavaScript
 - Automatic build tool  : Webpack
