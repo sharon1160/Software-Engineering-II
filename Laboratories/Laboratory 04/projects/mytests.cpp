@@ -26,3 +26,12 @@ int main(int argc, char* argv[])
 }
 
 
+/* 
+    COMPILAR
+
+    mkdir build && cd build
+    cmake ..
+    make
+    ./mytests
+
+*/
