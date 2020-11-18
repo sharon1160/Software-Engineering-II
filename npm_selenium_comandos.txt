@@ -1,0 +1,5 @@
+npm init -y
+npm install --save-dev selenium-webdriver
+npm install --save-dev geckodriver
+npm install --save-dev chromedriver
+npm install --save-dev jest
